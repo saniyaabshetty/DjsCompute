@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="your_plans" translatable="false">Your Plans</string>
+</resources>
